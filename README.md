@@ -1,5 +1,14 @@
 ### Hi there 👋
+- 👋 Hi, I’m Anthony HO
+- 👀 I’m interested in solving problem
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Chatbot
+- 📫 How to reach me anthony.ct.ho@outlook.com
 
+<!---
+NickTheReal304/NickTheReal304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 <!--
 **RepublicHo/RepublicHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
