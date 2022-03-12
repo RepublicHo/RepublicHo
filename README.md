@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 Hi, I’m Anthony HO
 - 👀 I’m interested in solving problem
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, and planning to learn Go and Swift
 - 💞️ I’m looking to collaborate on Chatbot
 - 📫 How to reach me anthony.ct.ho@outlook.com
 
