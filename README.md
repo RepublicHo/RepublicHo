@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 👋 Hi, I’m Anthony HO
-- 👀 I’m interested in solving problem
-- 🌱 I’m currently learning Linux
-- 💞️ I’m looking to collaborate on Chatbot
+- 👋 Hi, I’m Anthony HO. 
+- 👀 I’m interested in causes bringing hope to human beings. 
+- 🌱 I’m currently learning low layer in DB, Cloud and OS. 
+- 💞️ I’m looking to collaborate on DataBase. 
 - 📫 How to reach me anthony.ct.ho@outlook.com
 
 <!---
