@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 👋 Hi, I’m Anthony HO. 
-- 👀 I’m interested in causes bringing hope to human beings. 
-- 🌱 I’m currently learning low layer. 
+- 👋 Hi, I’m Anthony. 
+- 👀 I’m interested in Spring.
+- 🌱 I’m currently learning Java. 
 - 💞️ I’m looking to collaborate on DataBase. 
-- 📫 How to reach me anthony.ct.ho@outlook.com
+- 📫 How to reach me anthony.zj.he@outlook.com
 
 <!---
 NickTheReal304/NickTheReal304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
