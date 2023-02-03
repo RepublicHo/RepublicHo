@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 Hi, I’m Anthony. 
 - 👀 I’m interested in Spring.
-- 🌱 I’m currently learning Java. 
+- 🌱 I’m currently learning Microservice. 
 - 💞️ I’m looking to collaborate on DataBase. 
 - 📫 How to reach me anthony.zj.he@outlook.com
 
